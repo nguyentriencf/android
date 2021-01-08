@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/caro">
+
+    <CheckBox
+
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_above="@id/cbTwo"
+        android:id="@+id/cbOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </CheckBox>
+
+    <CheckBox
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/cbTwo"
+        android:layout_above="@id/cbThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </CheckBox>
+
+    <CheckBox
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/cbThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </CheckBox>
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:layout_marginBottom="20dp"
+        android:thumb="@drawable/fb"
+        android:layout_toRightOf="@id/cbOne"
+        android:layout_above="@id/seektwo"
+        android:id="@+id/seekone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </SeekBar>
+
+    <SeekBar
+            android:progressDrawable="@android:color/transparent"
+            android:layout_marginBottom="12dp"
+            android:thumb="@drawable/instagram"
+            android:layout_toRightOf="@id/cbTwo"
+            android:id="@+id/seektwo"
+            android:layout_above="@id/seekthree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    </SeekBar>
+
+    <SeekBar
+            android:progressDrawable="@android:color/transparent"
+            android:layout_marginBottom="15dp"
+            android:thumb="@drawable/twitter"
+            android:layout_toRightOf="@id/cbThree"
+            android:id="@+id/seekthree"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    </SeekBar>
+    <TextView
+        android:id="@+id/tvdiem"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textColor="#DA1515"
+        android:textSize="50sp"
+        android:text="100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/Ihinh"
+        android:layout_marginTop="5dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:src="@drawable/hinh">
+    </ImageView>
+    <ImageButton
+        android:id="@+id/btnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/play"
+        android:background="@center"
+        android:layout_centerInParent="true"></ImageButton>
+
+</RelativeLayout>

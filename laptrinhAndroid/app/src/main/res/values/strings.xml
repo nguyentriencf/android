@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstPromgram</string>
+    <string name="btnOK">Đồng ý</string>
+    <string name="txtInput">Nhập dư liệu</string>
+</resources>

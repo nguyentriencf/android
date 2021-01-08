@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <SeekBar
+        android:id="@+id/sbRed"
+        android:layout_marginTop="50dp"
+        android:layout_width="300dp"
+        android:layout_marginLeft="50dp"
+        android:layout_height="10dp"
+        android:max="255">
+    </SeekBar>
+    <SeekBar
+        android:layout_below="@+id/sbRed"
+        android:id="@+id/sbG"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_width="300dp"
+        android:layout_height="20dp"
+        android:max="255">
+    </SeekBar>
+    <SeekBar
+        android:id="@+id/sbB"
+        android:layout_below="@+id/sbG"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_width="300dp"
+        android:layout_height="10dp"
+        android:max="255">
+    </SeekBar>
+
+    <TextView
+        android:id="@+id/tvRed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="50dp"
+
+        android:layout_toLeftOf="@+id/sbRed"
+        android:text="Red"
+        android:textColor="@color/colorPrimary"
+        android:textSize="50sp"
+        android:textStyle="bold"></TextView>
+    <RelativeLayout
+        android:id="@+id/viewRGB"
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true">
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_toRightOf="@id/viewRGB"
+        android:id="@+id/viewCMY"
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true">
+
+    </RelativeLayout>
+
+</RelativeLayout>

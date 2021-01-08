@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:weightSum="2"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <EditText
+            android:id="@+id/txtNumnber"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="@string/textbox_hint"
+            android:inputType="numberDecimal"/>
+        <Spinner
+            android:id="@+id/spinUnit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/usd"
+                android:contentDescription="@string/usd_name"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/usd_unit"
+                android:paddingLeft="10dp"/>
+            <TextView
+                android:id="@+id/lblUsd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp">
+
+            </TextView>
+        </TableRow>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

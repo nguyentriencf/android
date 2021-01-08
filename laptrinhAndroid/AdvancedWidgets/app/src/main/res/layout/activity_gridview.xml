@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView
+        android:id="@+id/grvMain"
+        android:numColumns="auto_fit"
+        android:columnWidth="50dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </GridView>
+</LinearLayout>

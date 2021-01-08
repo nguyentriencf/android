@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/bg">
+
+    <TextView
+        android:id="@+id/city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TP.ĐÀ LẠT"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:textColor="@color/text1"/>
+    <TextView
+        android:id="@+id/country"
+        android:layout_below="@id/city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Viet Nam"
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/text1"/>
+    <TextView
+        android:id="@+id/time"
+        android:layout_below="@id/country"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WEDNESDAY 9 AM"
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/text1"/>
+    <ImageView
+        android:id="@+id/morning"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@id/time"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/mon1"
+        android:padding="10dp"
+        android:background="@null"/>
+    <TextView
+        android:id="@+id/deg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="23°C"
+        android:layout_below="@id/morning"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/text1"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/forecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUNNY"
+        android:layout_below="@id/deg"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/text1"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/forecast"
+        android:weightSum="3"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight=" 1"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HUMIDDITY"
+                android:textSize="20sp"
+                android:textColor="@color/text1"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="94%"
+                android:layout_marginTop="20dp"
+                android:textSize="16sp"
+                android:textColor="@color/text1"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight=" 1"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WIND"
+                android:textSize="20sp"
+                android:textColor="@color/text1"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3 km/hr"
+                android:layout_marginTop="20dp"
+                android:textSize="16sp"
+                android:textColor="@color/text1"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight=" 1"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="REAL FEEL"
+                android:textSize="20sp"
+                android:textColor="@color/text1"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="19°C"
+                android:layout_marginTop="20dp"
+                android:textSize="16sp"
+                android:textColor="@color/text1"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

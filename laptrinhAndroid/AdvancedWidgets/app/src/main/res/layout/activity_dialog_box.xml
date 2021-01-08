@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText
+        android:id="@+id/txtInput"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textSize="20dp"
+        />
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="2"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/cmdToast"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:text="Normal Toast"
+            android:layout_height="match_parent"/>
+        <Button
+            android:id="@+id/cmdDialog"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:text="Normal Dialog"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="2"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/cmdCustomToast"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:text="Custom Toast"
+            android:layout_height="match_parent"/>
+        <Button
+            android:id="@+id/cmdCustomDialog"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:text="Custom Dialog"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+</LinearLayout>

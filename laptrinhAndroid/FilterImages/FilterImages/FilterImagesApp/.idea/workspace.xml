@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b82984ed-d556-4ca4-ac9c-97f667e17290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../CSDL/Quanlykhachsan/Quanlydichvukhachsan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-3959922743-4180396579-596019482-1001/$IINL19S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/LAB8.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/Lab01_qlnv.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/Lab04_QLDatBao (1).sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/QLHocVien_CoPhuong (For CTK42).sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/QuanLyQuanCoffee.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/ghi chú.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab01_quanlynv.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab05_quanlytourdulich.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab06.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab2_qlsx.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab4_qldatbao.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/CoSoDuLieu_SQL/lab8_quanlysinhvien.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/WEB/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/.vs/ASimpleApp/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/.vs/ASimpleApp/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/.vs/ASimpleApp/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/.vs/ASimpleApp/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/ASimpleApp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/ASimpleApp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Form1.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Form1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Properties/Resources.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Properties/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Properties/Settings.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Properties/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Resources/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/Resources/2.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/bin/Debug/ASimpleApp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/bin/Debug/ASimpleApp.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/bin/Debug/ASimpleApp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.Form1.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.csproj.GenerateResource.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/ASimpleApp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ASimpleApp/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/.vs/AutoPolicy/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/.vs/AutoPolicy/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/.vs/AutoPolicy/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/.vs/AutoPolicy/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/AutoPolicy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/AutoPolicy.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/AutoPolicy.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/AutoPolicyTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/Craps.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/bin/Debug/netcoreapp3.0/AutoPolicy.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/bin/Debug/netcoreapp3.0/AutoPolicy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/bin/Debug/netcoreapp3.0/AutoPolicy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/bin/Debug/netcoreapp3.0/AutoPolicy.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/bin/Debug/netcoreapp3.0/AutoPolicy.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/bin/Debug/netcoreapp3.0/AutoPolicy.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicy.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicy.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicy.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicy.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicyTest.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicyTest.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/AutoPolicyTest.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicy.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicyTest.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicyTest.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicyTest.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicyTest.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/Debug/netcoreapp3.0/AutoPolicyTest.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/AutoPolicy/AutoPolicy/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/.vs/BankAccount/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/.vs/BankAccount/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/.vs/BankAccount/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/.vs/BankAccount/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/Account.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/AccountTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/BankAccount.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/BankAccount.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/bin/Debug/netcoreapp3.0/BankAccount.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/bin/Debug/netcoreapp3.0/BankAccount.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/bin/Debug/netcoreapp3.0/BankAccount.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/bin/Debug/netcoreapp3.0/BankAccount.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/bin/Debug/netcoreapp3.0/BankAccount.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/bin/Debug/netcoreapp3.0/BankAccount.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/BankAccount.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/BankAccount.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/BankAccount.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/BankAccount.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/Debug/netcoreapp3.0/BankAccount.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/BankAccount/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/.vs/CaseStudy12.5/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/.vs/CaseStudy12.5/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/.vs/CaseStudy12.5/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/BasePlusCommissionEmployee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/CaseStudy12.5.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/CaseStudy12.5.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/CommissionEmployee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/Employee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/HourlyEmployee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/Interface.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/Invoice.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/SalariedEmployee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/bin/Debug/CaseStudy12.5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/bin/Debug/CaseStudy12.5.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/bin/Debug/CaseStudy12.5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/obj/Debug/CaseStudy12.5.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/obj/Debug/CaseStudy12.5.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/obj/Debug/CaseStudy12.5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/obj/Debug/CaseStudy12.5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/CaseStudy12.5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/.vs/ChuongTrinhDauTien/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/.vs/ChuongTrinhDauTien/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/.vs/ChuongTrinhDauTien/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/.vs/ChuongTrinhDauTien/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/ChuongTrinh.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/ChuongTrinhDauTien.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/ChuongTrinhDauTien.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/bin/Debug/netcoreapp3.0/ChuongTrinhDauTien.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/bin/Debug/netcoreapp3.0/ChuongTrinhDauTien.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/bin/Debug/netcoreapp3.0/ChuongTrinhDauTien.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/bin/Debug/netcoreapp3.0/ChuongTrinhDauTien.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/bin/Debug/netcoreapp3.0/ChuongTrinhDauTien.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/bin/Debug/netcoreapp3.0/ChuongTrinhDauTien.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/ChuongTrinhDauTien.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/ChuongTrinhDauTien.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/ChuongTrinhDauTien.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/ChuongTrinhDauTien.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/Debug/netcoreapp3.0/ChuongTrinhDauTien.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ChuongTrinhDauTien/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/.vs/ComplexNumber/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/.vs/ComplexNumber/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/.vs/ComplexNumber/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/ComplexNumber.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/ComplexNumber.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/bin/Debug/ComplexNumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/bin/Debug/ComplexNumber.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/bin/Debug/ComplexNumber.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/obj/Debug/ComplexNumber.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/obj/Debug/ComplexNumber.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/obj/Debug/ComplexNumber.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/obj/Debug/ComplexNumber.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ComplexNumber/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/.vs/Composition/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/.vs/Composition/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/.vs/Composition/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Composition.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Composition.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Date.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Employee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Employee10.9.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/bin/Debug/Composition.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/bin/Debug/Composition.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/bin/Debug/Composition.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/obj/Debug/Composition.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/obj/Debug/Composition.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/obj/Debug/Composition.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/obj/Debug/Composition.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/Composition/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/.vs/ConsoleApp1/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/.vs/ConsoleApp1/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/.vs/ConsoleApp1/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/ConsoleApp1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/Employee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/bin/Debug/ConsoleApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/bin/Debug/ConsoleApp1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/obj/Debug/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/obj/Debug/ConsoleApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/obj/Debug/ConsoleApp1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/ConsoleApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/.vs/GradeBookMultip/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/.vs/GradeBookMultip/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/.vs/GradeBookMultip/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/GradeBook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/GradeBookMultip.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/GradeBookMultip.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/bin/Debug/GradeBookMultip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/bin/Debug/GradeBookMultip.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/bin/Debug/GradeBookMultip.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/obj/Debug/GradeBookMultip.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/obj/Debug/GradeBookMultip.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/obj/Debug/GradeBookMultip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookMultip/obj/Debug/GradeBookMultip.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/.vs/GradeBookVersion2/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/.vs/GradeBookVersion2/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/.vs/GradeBookVersion2/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/.vs/GradeBookVersion2/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/GradeBook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/GradeBookVersion2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/GradeBookVersion2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/InitArray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/bin/Debug/netcoreapp3.0/GradeBookVersion2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/bin/Debug/netcoreapp3.0/GradeBookVersion2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/bin/Debug/netcoreapp3.0/GradeBookVersion2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/bin/Debug/netcoreapp3.0/GradeBookVersion2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/bin/Debug/netcoreapp3.0/GradeBookVersion2.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/bin/Debug/netcoreapp3.0/GradeBookVersion2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/Debug/netcoreapp3.0/GradeBookVersion2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/GradeBookVersion2.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/GradeBookVersion2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/GradeBookVersion2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/GradeBookVersion2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/GradeBookVersion2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/.vs/HumanManage/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/.vs/HumanManage/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/.vs/HumanManage/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/.vs/HumanManage/v16/Server/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/.vs/HumanManage/v16/Server/sqlite3/storage.ide-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/BasePlusCommissionEmployee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/CommissionEmployee.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/HumanManage.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/HumanManage.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/bin/Debug/HumanManage.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/bin/Debug/HumanManage.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/bin/Debug/HumanManage.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/obj/Debug/HumanManage.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/obj/Debug/HumanManage.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/obj/Debug/HumanManage.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/HumanManage/obj/Debug/HumanManage.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/.vs/LINDQ/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/.vs/LINDQ/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/.vs/LINDQ/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/LINDQ.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/LINDQ.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/LINDQ/obj/Debug/LINDQ.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/.vs/PlayingCard/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/.vs/PlayingCard/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/.vs/PlayingCard/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/.vs/PlayingCard/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/Card.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/DeckOfCards.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/PlayingCard.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/PlayingCard.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/bin/Debug/netcoreapp3.0/PlayingCard.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/bin/Debug/netcoreapp3.0/PlayingCard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/bin/Debug/netcoreapp3.0/PlayingCard.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/bin/Debug/netcoreapp3.0/PlayingCard.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/bin/Debug/netcoreapp3.0/PlayingCard.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/bin/Debug/netcoreapp3.0/PlayingCard.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/Debug/netcoreapp3.0/PlayingCard.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/PlayingCard.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/PlayingCard.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/PlayingCard.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/PlayingCard.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab_tonghop/langbiangClass/PlayingCard/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../tailieu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../testigore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
+  </component>
+  <component name="ProjectId" id="1iPsZJ54A7Up3rNTpDD4nC21qCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.recentlyUsedThemes" value="android:Theme.NoTitleBar" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/FilterImages/FilterImagesApp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-132332894">
+      <recent name="com.example.filterimages" />
+    </key>
+    <key name="android.template.-1230278664">
+      <recent name="com.example.filterimages" />
+    </key>
+    <key name="android.template.1300106030">
+      <recent name="com.example.filterimages" />
+    </key>
+    <key name="android.template.-111636736">
+      <recent name="com.example.filterimages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.filterimages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.brightness">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="FilterImages.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="brightness" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="FilterImages.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.filterimages.brightness" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b82984ed-d556-4ca4-ac9c-97f667e17290" name="Default Changelist" comment="" />
+      <created>1601820615490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601820615490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="92" key="#PSD" timestamp="1610006472853">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="190" y="92" key="#PSD/0.0.1366.768@0.0.1366.768" timestamp="1610006472853" />
+    <state x="190" y="106" key="#PSD/0.23.1366.692@0.23.1366.692" timestamp="1602684528040" />
+    <state x="392" y="0" key="#app" timestamp="1610010181560">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="0" key="#app/0.0.1366.768@0.0.1366.768" timestamp="1610010181560" />
+    <state x="392" y="0" key="#brightness" timestamp="1610018626997">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="0" key="#brightness/0.0.1366.768@0.0.1366.768" timestamp="1610018626997" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610018619914">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1610018619914" />
+    <state x="496" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1602430860888">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="496" y="78" key="#com.intellij.ide.util.MemberChooser/0.23.1366.692@0.23.1366.692" timestamp="1602430860888" />
+    <state x="421" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602214828714">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="421" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1366.692@0.23.1366.692" timestamp="1602214828714" />
+    <state x="271" y="131" key="AndroidCreateResourceFileDialog" timestamp="1601993661330">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="271" y="131" key="AndroidCreateResourceFileDialog/0.23.1366.692@0.23.1366.692" timestamp="1601993661330" />
+    <state x="542" y="234" key="AndroidCreateXmlResourceDialog" timestamp="1602129184514">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="542" y="234" key="AndroidCreateXmlResourceDialog/0.23.1366.692@0.23.1366.692" timestamp="1602129184514" />
+    <state x="271" y="81" key="AndroidThemeDialog" timestamp="1602129327820">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="271" y="81" key="AndroidThemeDialog/0.23.1366.692@0.23.1366.692" timestamp="1602129327820" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1610020933931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1610020933931" />
+    <state width="1222" height="110" key="GridCell.Tab.0.bottom" timestamp="1602599146614">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state width="1222" height="110" key="GridCell.Tab.0.bottom/0.23.1366.692@0.23.1366.692" timestamp="1602599146614" />
+    <state width="1222" height="110" key="GridCell.Tab.0.center" timestamp="1602599146614">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state width="1222" height="110" key="GridCell.Tab.0.center/0.23.1366.692@0.23.1366.692" timestamp="1602599146614" />
+    <state width="1222" height="110" key="GridCell.Tab.0.left" timestamp="1602599146613">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state width="1222" height="110" key="GridCell.Tab.0.left/0.23.1366.692@0.23.1366.692" timestamp="1602599146613" />
+    <state width="1222" height="110" key="GridCell.Tab.0.right" timestamp="1602599146614">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state width="1222" height="110" key="GridCell.Tab.0.right/0.23.1366.692@0.23.1366.692" timestamp="1602599146614" />
+    <state x="478" y="154" key="chooseDestDirectoryDialog" timestamp="1602215118150">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="478" y="154" key="chooseDestDirectoryDialog/0.23.1366.692@0.23.1366.692" timestamp="1602215118150" />
+    <state x="110" y="143" width="1146" height="452" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601821925567">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="110" y="143" width="1146" height="452" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1366.692@0.23.1366.692" timestamp="1601821925567" />
+    <state x="347" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1602681566511">
+      <screen x="0" y="23" width="1366" height="692" />
+    </state>
+    <state x="347" y="201" key="com.intellij.ide.util.TipDialog/0.23.1366.692@0.23.1366.692" timestamp="1602681566511" />
+  </component>
+</project>
